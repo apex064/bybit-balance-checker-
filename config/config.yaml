@@ -1,0 +1,46 @@
+binance:
+  api_key: '0xf752d6a484f5c68b82933c7b723011ccd9430ede857d92679f4b043677b040aa'
+  api_secret: '0xf752d6a484f5c68b82933c7b723011ccd9430ede857d92679f4b043677b040aa'
+
+lighter:
+  web3_provider_url: 'https://testnet.zklighter.elliot.ai/'
+  api_auth: '0xf752d6a484f5c68b82933c7b723011ccd9430ede857d92679f4b043677b040aa'
+  ACCOUNT_INDEX: 218
+  API_KEY_INDEX: 1
+
+kucoin:
+  api_key: "0xf752d6a484f5c68b82933c7b723011ccd9430ede857d92679f4b043677b040aa"
+  api_secret: "0xf752d6a484f5c68b82933c7b723011ccd9430ede857d92679f4b043677b040aa"
+  api_passphrase: "0xf752d6a484f5c68b82933c7b723011ccd9430ede857d92679f4b043677b040aa"
+  testnet: true
+
+bybit:
+  api_key: "2C3YmIc51lMCugQjI9"
+  api_secret: "ba1YTqdp083xWFQR6Y3InVdnRQ6blelPgbwp"
+  testnet: true
+
+gate:
+  api_key: "6aed796b4703423ed94573f101efff93"
+  api_secret: "8393457c3c3a8461c798b1894439b0a33faaa9390ef4ebfa393a2b1ed701b61f"
+
+dydx:
+  api_key: "your_dydx_api_key"
+  api_secret: "your_dydx_api_secret"
+  api_passphrase: "your_dydx_passphrase"
+  stark_private_key: "your_stark_private_key"
+  eth_private_key: "your_eth_private_key"
+  eth_address: "your_eth_address"
+  stark_public_key: "your_stark_public_key"
+  stark_key_y_coordinate: "your_stark_y"
+  account_id: "your_account_id"
+  host: "https://api.stage.dydx.exchange"
+
+hyperliquid:
+  account: "your_hyperliquid_account_name"
+  address: "0xyour_wallet_address"
+  private_key: "your_wallet_private_key"
+
+kraken:
+  api_key: "0x8ab453390f2f0ab9a78f3f101950ee2fc6ad456a9ef5b0f010bd19455d41db6b"
+  api_secret: "0x8ab453390f2f0ab9a78f3f101950ee2fc6ad456a9ef5b0f010bd19455d41db6b"
+
